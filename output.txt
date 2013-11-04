@@ -1,0 +1,182 @@
+An empty sequence of real numbers (s1) and
+an empty sequence of characters (s2) have been created.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered A
+Enter object # (1 = s1, 2 = s2) You entered 1
+Enter a real number: You entered 25
+25 added to s1.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered A
+Enter object # (1 = s1, 2 = s2) You entered 1
+Enter a real number: You entered 50
+50 added to s1.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered A
+Enter object # (1 = s1, 2 = s2) You entered 1
+Enter a real number: You entered 75
+75 added to s1.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered A
+Enter object # (1 = s1, 2 = s2) You entered 1
+Enter a real number: You entered 100
+100 added to s1.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered !
+Enter object # (1 = s1, 2 = s2) You entered 1
+s1 started
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered C
+Enter object # (1 = s1, 2 = s2) You entered 1
+Current item in s1 is: 25
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered +
+Enter object # (1 = s1, 2 = s2) You entered 1
+Advanced s1 one item.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered C
+Enter object # (1 = s1, 2 = s2) You entered 1
+Current item in s1 is: 50
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered +
+Enter object # (1 = s1, 2 = s2) You entered 1
+Advanced s1 one item.
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered C
+Enter object # (1 = s1, 2 = s2) You entered 1
+Current item in s1 is: 75
+
+The following choices are available:
+  !  Activate the start() function
+  &  Activate the end() function
+  +  Activate the advance() function
+  -  Activate the move_back() function
+  ?  Print the result from the is_item() function
+  C  Print the result from the current() function
+  P  Print a copy of the entire sequence
+  S  Print the result from the size() function
+  A  Add a new item with the add(...) function
+  R  Activate the remove_current() function
+  Q  Quit this test program
+Enter choice: You entered Q
+Quit option selected...bye
+Press Enter or Return when ready...
